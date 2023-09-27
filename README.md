@@ -1,6 +1,3 @@
-Certainly! Below is the documentation for your Subnet Calculator in your writing style, with your GitHub username, Yasuke2000:
-
----
 
 # Subnet Calculator
 
@@ -75,4 +72,3 @@ That's it! Enjoy using the Subnet Calculator, and happy networking!
 
 ---
 
-Feel free to use this documentation by creating a README.md file in your GitHub repository. Make sure to customize it further if needed and ensure it fits the structure and style of your project.
